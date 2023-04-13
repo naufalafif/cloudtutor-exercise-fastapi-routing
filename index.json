@@ -1,0 +1,42 @@
+{
+  "title": "FastAPI Routing",
+  "description": "Pada exercise ini, kita akan belajar tentang routing pada FastAPI",
+  "time": "30 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Routing di FastAPI",
+        "path": "step1.md",
+        "type": "markdown"
+      },
+      {
+        "title": "Request Method",
+        "path": "step2.md",
+        "type": "markdown"
+      },
+      {
+        "title": "Request Method 2",
+        "path": "step3.md",
+        "type": "markdown"
+      },
+      {
+        "title": "Challenge",
+        "path": "step4/index.json",
+        "type": "challenge"
+      }
+    ],
+    "intro": {
+      "content": "intro.md"
+    },
+    "finish": {
+      "content": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-web"
+  },
+  "backend": {
+    "imageid": "playground-v2",
+    "open_ports": [80, 8000, 8080]
+  }
+}
